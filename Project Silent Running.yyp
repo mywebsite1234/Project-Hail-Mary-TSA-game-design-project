@@ -1,0 +1,38 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Project Silent Running",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":0,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"download.webp","CopyToMask":-1,"filePath":"datafiles","name":"download.webp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"Project Silent Running",
+  "resources":[
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sprStartPage","path":"sprites/sprStartPage/sprStartPage.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
