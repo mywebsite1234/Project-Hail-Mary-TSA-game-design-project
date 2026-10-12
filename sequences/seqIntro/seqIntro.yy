@@ -14,7 +14,10 @@
     "resourceType":"KeyframeStore<MessageEventKeyframe>",
     "resourceVersion":"2.0",
   },
-  "eventStubScript":null,
+  "eventStubScript":{
+    "name":"seqIntro_Events1",
+    "path":"scripts/seqIntro_Events1/seqIntro_Events1.yy",
+  },
   "eventToFunction":{},
   "length":50.0,
   "lockOrigin":false,
