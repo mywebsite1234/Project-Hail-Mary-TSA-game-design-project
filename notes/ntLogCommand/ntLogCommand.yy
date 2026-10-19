@@ -1,7 +1,7 @@
 {
   "$GMNotes":"v1",
-  "%Name":"Note1",
-  "name":"Note1",
+  "%Name":"ntLogCommand",
+  "name":"ntLogCommand",
   "parent":{
     "name":"Project Silent Running",
     "path":"Project Silent Running.yyp",
