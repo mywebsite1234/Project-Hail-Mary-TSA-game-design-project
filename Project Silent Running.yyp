@@ -36,6 +36,7 @@
   "name":"Project Silent Running",
   "resources":[
     {"id":{"name":"fnSplash","path":"fonts/fnSplash/fnSplash.yy",},},
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"objAbsentGame","path":"objects/objAbsentGame/objAbsentGame.yy",},},
     {"id":{"name":"objBackground","path":"objects/objBackground/objBackground.yy",},},
     {"id":{"name":"objEarth","path":"objects/objEarth/objEarth.yy",},},
