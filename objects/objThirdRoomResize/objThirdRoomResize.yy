@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"objWall32x32_1",
-  "eventList":[],
+  "%Name":"objThirdRoomResize",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"objWall32x32_1",
+  "name":"objThirdRoomResize",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Environment",
+    "path":"folders/Objects/Environment.yy",
   },
-  "parentObjectId":{
-    "name":"objWall1",
-    "path":"objects/objWall1/objWall1.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sprInvisibleWall32x32_1",
-    "path":"sprites/sprInvisibleWall32x32_1/sprInvisibleWall32x32_1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

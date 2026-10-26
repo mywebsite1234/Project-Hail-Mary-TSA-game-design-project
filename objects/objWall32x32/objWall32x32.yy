@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprInvisibleWall32x32",
-    "path":"sprites/sprInvisibleWall32x32/sprInvisibleWall32x32.yy",
+    "name":"sprInvisibleWall32x32_1",
+    "path":"sprites/sprInvisibleWall32x32_1/sprInvisibleWall32x32_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
