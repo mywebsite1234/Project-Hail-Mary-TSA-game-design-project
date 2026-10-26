@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprHorizontalGras",
-    "path":"sprites/sprHorizontalGras/sprHorizontalGras.yy",
+    "name":"sprHorizontalGras1",
+    "path":"sprites/sprHorizontalGras1/sprHorizontalGras1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

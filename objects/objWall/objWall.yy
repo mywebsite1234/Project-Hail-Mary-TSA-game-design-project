@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprInvisibleWall",
-    "path":"sprites/sprInvisibleWall/sprInvisibleWall.yy",
+    "name":"sprInvisibleWall1",
+    "path":"sprites/sprInvisibleWall1/sprInvisibleWall1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
