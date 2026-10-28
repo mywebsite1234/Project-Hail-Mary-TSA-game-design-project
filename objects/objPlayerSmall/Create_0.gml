@@ -9,7 +9,7 @@ varJumpingSpeed = 11		// sets the jumping speed
 varGravity = 0.25			// sets the gravity
 varDrag = .5				// sets the drag - how fast a character slows
 varRunningJumps = true		// set to false if you dont want runnning speed to be used in jumps
-varDoubleJumps = true		// set to false if you dont want double jump
+varDoubleJumps = false		// set to false if you dont want double jump
 varAttacking = false		// used for attacking
 varSpriteOverride = false	// allows you to bypass the step event for the duration of the animation
 
