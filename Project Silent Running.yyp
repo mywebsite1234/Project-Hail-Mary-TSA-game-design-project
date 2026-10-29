@@ -68,6 +68,7 @@
     {"id":{"name":"seqSplash","path":"sequences/seqSplash/seqSplash.yy",},},
     {"id":{"name":"sprA","path":"sprites/sprA/sprA.yy",},},
     {"id":{"name":"sprApples","path":"sprites/sprApples/sprApples.yy",},},
+    {"id":{"name":"sprAstroIdle","path":"sprites/sprAstroIdle/sprAstroIdle.yy",},},
     {"id":{"name":"sprArrow","path":"sprites/sprArrow/sprArrow.yy",},},
     {"id":{"name":"sprBackground","path":"sprites/sprBackground/sprBackground.yy",},},
     {"id":{"name":"sprBlack","path":"sprites/sprBlack/sprBlack.yy",},},
