@@ -1,4 +1,4 @@
 
 if room == rmIntro {
-	// room_goto()
+	room_goto(rmSmallerWorld)
 }
