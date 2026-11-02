@@ -15,9 +15,9 @@ varSpriteOverride = false	// allows you to bypass the step event for the duratio
 
 
 // set the sprites - 
-varSPRIdle = sprMonkIdle		//this sprite's mask is used for non-attacking sprites
-varSPRWalking = sprMonkRun			//walking sprite
-varSPRRunning = sprMonkRun			//running sprite
+varSPRIdle = sprVGIdle		//this sprite's mask is used for non-attacking sprites
+varSPRWalking = sprVGRun			//walking sprite
+varSPRRunning = sprVGRun			//running sprite
 varSPRJumpUp = sprMonkJumpUp		//uump sprite
 varSPRJumpUp2 =sprMonkJumpMid		//you can have a different spr on the double jump
 varSPRJumpDown = sprMonkJumpDown	//sprite for downside of jump
