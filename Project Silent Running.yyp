@@ -57,7 +57,6 @@
     {"id":{"name":"objGame","path":"objects/objGame/objGame.yy",},},
     {"id":{"name":"objGenerateHearts","path":"objects/objGenerateHearts/objGenerateHearts.yy",},},
     {"id":{"name":"objPlayerDead","path":"objects/objPlayerDead/objPlayerDead.yy",},},
-    {"id":{"name":"objPlayerMaster","path":"objects/objPlayerMaster/objPlayerMaster.yy",},},
     {"id":{"name":"objPlayerSmall","path":"objects/objPlayerSmall/objPlayerSmall.yy",},},
     {"id":{"name":"objRustyBat","path":"objects/objRustyBat/objRustyBat.yy",},},
     {"id":{"name":"objSecondRoomResize","path":"objects/objSecondRoomResize/objSecondRoomResize.yy",},},
