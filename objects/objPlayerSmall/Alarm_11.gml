@@ -1,0 +1,3 @@
+
+varShowText = ""
+varCanDraw = true
