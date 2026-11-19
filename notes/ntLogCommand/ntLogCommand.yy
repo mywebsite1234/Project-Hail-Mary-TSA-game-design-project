@@ -3,8 +3,8 @@
   "%Name":"ntLogCommand",
   "name":"ntLogCommand",
   "parent":{
-    "name":"Project Silent Running",
-    "path":"Project Silent Running.yyp",
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
   },
   "resourceType":"GMNotes",
   "resourceVersion":"2.0",
