@@ -38,7 +38,15 @@ draw_text(800,300, string(collision_point(x,bbox_bottom+1,objWallVerticalMoving,
 */
 draw_self()
 
-
+if varShowText != "" {
+	draw_set_halign(fa_center)
+	draw_set_font(fnTempText)
+	draw_text(x, y - 60, varShowText)
+	if varTextTTL > 0 {
+		alarm_set(11, varTextTTL)
+		varTextTTL = 0
+	}
+}
 
 
 
