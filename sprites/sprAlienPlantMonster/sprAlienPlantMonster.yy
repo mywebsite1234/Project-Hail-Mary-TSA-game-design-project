@@ -2,17 +2,20 @@
   "$GMSprite":"v2",
   "%Name":"sprAlienPlantMonster",
   "bboxMode":0,
-  "bbox_bottom":60,
-  "bbox_left":10,
-  "bbox_right":50,
-  "bbox_top":2,
+  "bbox_bottom":63,
+  "bbox_left":6,
+  "bbox_right":51,
+  "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"v1","%Name":"b3011f9a-e722-41cf-9791-a3ba52c4b6e5","name":"b3011f9a-e722-41cf-9791-a3ba52c4b6e5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ccfe8284-962a-4216-89bb-bc4209bab451","name":"ccfe8284-962a-4216-89bb-bc4209bab451","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8766d55d-7f8c-4585-85fa-2d53771a0338","name":"8766d55d-7f8c-4585-85fa-2d53771a0338","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d6e57fc0-5a85-4b30-8499-2dd42c00c6eb","name":"d6e57fc0-5a85-4b30-8499-2dd42c00c6eb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"c133fb38-3f6d-4727-8f70-fcb85fe10527","name":"c133fb38-3f6d-4727-8f70-fcb85fe10527","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -49,7 +52,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":4.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -59,7 +62,7 @@
     },
     "name":"sprAlienPlantMonster",
     "playback":1,
-    "playbackSpeed":30.0,
+    "playbackSpeed":5.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -69,8 +72,17 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b3011f9a-e722-41cf-9791-a3ba52c4b6e5","path":"sprites/sprAlienPlantMonster/sprAlienPlantMonster.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"29ba3090-21b0-4d9d-a872-3421b684ee56","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ccfe8284-962a-4216-89bb-bc4209bab451","path":"sprites/sprAlienPlantMonster/sprAlienPlantMonster.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"bedf7f89-a53c-4be8-8579-02b1aeaa4e7f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8766d55d-7f8c-4585-85fa-2d53771a0338","path":"sprites/sprAlienPlantMonster/sprAlienPlantMonster.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"215059df-0c14-4cf1-919b-a5103d9eaf65","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d6e57fc0-5a85-4b30-8499-2dd42c00c6eb","path":"sprites/sprAlienPlantMonster/sprAlienPlantMonster.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"8c21cab3-1327-4b20-b331-5efd1b8b77c7","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c133fb38-3f6d-4727-8f70-fcb85fe10527","path":"sprites/sprAlienPlantMonster/sprAlienPlantMonster.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"fc49f123-ae6a-4381-bc0c-89a6eae0a391","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
