@@ -1,0 +1,1 @@
+draw_temp_text("I've heard it's REALLY benificial!", 2)

@@ -38,7 +38,7 @@ varHSpeed = 0
 varJumps = 0
 
 
-
+global.shift_pressed = false
 
 
 

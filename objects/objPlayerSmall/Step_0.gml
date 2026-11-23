@@ -267,3 +267,8 @@ else // This is animation end logic for any override sprite
 		varSpriteOverride = false;
 	}
 }
+
+
+if keyboard_check(vk_shift) and not global.shift_pressed {
+	global.shift_pressed = true
+}
