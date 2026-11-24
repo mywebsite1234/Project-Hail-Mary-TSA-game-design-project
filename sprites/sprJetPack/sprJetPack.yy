@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Tools",
-    "path":"folders/Sprites/Tools.yy",
+    "name":"JetPack",
+    "path":"folders/Sprites/Items/JetPack.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
