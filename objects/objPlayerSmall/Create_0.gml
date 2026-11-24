@@ -3,10 +3,10 @@
 
 // The following set of varibles can be changed here by the developer or in other
 // locations of the game to impact player behavior
-varWalkingSpeed = 7			// sets the walking speed
-varRunningSpeed = 12		// sets the running speed
+varWalkingSpeed = 12			// sets the walking speed
+varRunningSpeed = 9		// sets the running speed
 varJumpingSpeed = 11		// sets the jumping speed
-varGravity = 0.25			// sets the gravity
+varGravity = 0.35			// sets the gravity
 varDrag = .5				// sets the drag - how fast a character slows
 varRunningJumps = true		// set to false if you dont want runnning speed to be used in jumps
 varDoubleJumps = false		// set to false if you dont want double jump
