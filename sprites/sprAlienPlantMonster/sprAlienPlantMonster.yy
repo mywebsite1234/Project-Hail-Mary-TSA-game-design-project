@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"sprAlienPlantMonster",
   "bboxMode":0,
-  "bbox_bottom":63,
-  "bbox_left":6,
-  "bbox_right":51,
+  "bbox_bottom":95,
+  "bbox_left":9,
+  "bbox_right":77,
   "bbox_top":1,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -19,7 +19,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":64,
+  "height":96,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"66825cab-0748-46a7-879b-025c6b47be2d","blendMode":0,"displayName":"default","isLocked":false,"name":"66825cab-0748-46a7-879b-025c6b47be2d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -98,5 +98,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":64,
+  "width":96,
 }
