@@ -3,7 +3,7 @@
 
 // The following set of varibles can be changed here by the developer or in other
 // locations of the game to impact player behavior
-varWalkingSpeed = 12			// sets the walking speed
+varWalkingSpeed = 6			// sets the walking speed
 varRunningSpeed = 9		// sets the running speed
 varJumpingSpeed = 11		// sets the jumping speed
 varGravity = 0.35			// sets the gravity
