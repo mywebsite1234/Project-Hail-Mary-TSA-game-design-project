@@ -52,6 +52,7 @@
     {"$GMObjectProperty":"v2","%Name":"varCanDraw","filters":[],"listItems":[],"multiselect":false,"name":"varCanDraw","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"true","varType":3,},
     {"$GMObjectProperty":"v2","%Name":"varCoinAmount","filters":[],"listItems":[],"multiselect":false,"name":"varCoinAmount","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
     {"$GMObjectProperty":"v2","%Name":"varZPressed","filters":[],"listItems":[],"multiselect":false,"name":"varZPressed","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v2","%Name":"varJuiceAmount","filters":[],"listItems":[],"multiselect":false,"name":"varJuiceAmount","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
