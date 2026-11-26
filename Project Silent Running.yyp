@@ -27,7 +27,6 @@
     {"$GMFolder":"","%Name":"LargerWorld","folderPath":"folders/Sprites/Environment/LargerWorld.yy","name":"LargerWorld","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"SmallerWorld","folderPath":"folders/Sprites/Environment/SmallerWorld.yy","name":"SmallerWorld","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Set Sprites","folderPath":"folders/Sprites/Environment/SmallerWorld/Tile Set Sprites.yy","name":"Tile Set Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"group1","folderPath":"folders/Sprites/group1.yy","name":"group1","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"HUD","folderPath":"folders/Sprites/HUD.yy","name":"HUD","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Intro","folderPath":"folders/Sprites/Intro.yy","name":"Intro","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Items","folderPath":"folders/Sprites/Items.yy","name":"Items","resourceType":"GMFolder","resourceVersion":"2.0",},
