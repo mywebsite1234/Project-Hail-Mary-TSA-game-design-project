@@ -140,6 +140,7 @@
     {"id":{"name":"sprMonkRangedAttackShort","path":"sprites/sprMonkRangedAttackShort/sprMonkRangedAttackShort.yy",},},
     {"id":{"name":"sprMonkRun","path":"sprites/sprMonkRun/sprMonkRun.yy",},},
     {"id":{"name":"sprMonkStunned","path":"sprites/sprMonkStunned/sprMonkStunned.yy",},},
+    {"id":{"name":"sprNebulaCloud","path":"sprites/sprNebulaCloud/sprNebulaCloud.yy",},},
     {"id":{"name":"sprOrganic","path":"sprites/sprOrganic/sprOrganic.yy",},},
     {"id":{"name":"sprPlayerHeart","path":"sprites/sprPlayerHeart/sprPlayerHeart.yy",},},
     {"id":{"name":"sprPlayerHeartEmpty","path":"sprites/sprPlayerHeartEmpty/sprPlayerHeartEmpty.yy",},},
