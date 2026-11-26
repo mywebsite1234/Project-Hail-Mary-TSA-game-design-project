@@ -1,1 +1,1 @@
-instance_change(objPlayerDead,true)
+instance_change(objPlayerDead, true)
