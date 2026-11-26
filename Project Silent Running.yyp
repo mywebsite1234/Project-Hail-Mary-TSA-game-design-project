@@ -42,6 +42,7 @@
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"download.webp","CopyToMask":-1,"filePath":"datafiles","name":"download.webp","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"MixCraft Game Design.mx10","CopyToMask":-1,"filePath":"datafiles","name":"MixCraft Game Design.mx10","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"splash.txt","CopyToMask":-1,"filePath":"datafiles","name":"splash.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,

@@ -1,5 +1,5 @@
 /// @description Player Pick up coin
 
-varCoinAmount++
+objGame.varCoinAmount++
 instance_destroy(other)
 
