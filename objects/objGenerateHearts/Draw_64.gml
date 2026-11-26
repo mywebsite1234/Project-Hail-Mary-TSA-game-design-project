@@ -2,7 +2,7 @@ var varVx = /*camera_get_view_x(view_camera[0])*/ 0
 var varVy = /*camera_get_view_y(view_camera[0]) +*/ 0
 var varVWidth = camera_get_view_width(view_camera[0])
 var varVHeight = camera_get_view_height(view_camera[0])
-draw_sprite(sprHudBackground, 0, varVx, varVy)
+draw_sprite(sprRocketBackground, 0, varVx, varVy)
 //draw_set_font(fntCoinCount)
 draw_set_color(c_white)
 //var varCoinsX = varVx + 15
@@ -23,19 +23,29 @@ var varFullHearts = floor(objGame.varLives/2)
 // divide by 2 and take the remainder to determine half lives/empty hearts
 var varEmptyHearts = objGame.varLives mod 2
 
-var varXOffset = 20
+var varXOffset = 60
 if objGame.varLives > 0
 {
 	// draw the whole hearts
 	for (i = 0; i < varFullHearts; i++)
 	{
-	    draw_sprite(sprHudHeartFull,0,varVx+varXOffset+(i*45),varVy)
+	    draw_sprite(sprPlayerHeart,0,varVx+varXOffset+(i*45),varVy+12)
 	}
     
 	// determine if a half heart exists
 	if varEmptyHearts > 0
 	{
 	    //varHeartXLoc += 80
-	    draw_sprite(sprHudHeartEmpty,0,varVx+varXOffset+varFullHearts*45,varVy)
+	    draw_sprite(sprPlayerHeartEmpty,0,varVx+varXOffset+varFullHearts*45,varVy+12)
 	}
 }
+
+//draw coin GUI
+draw_sprite(sprCoinGUI,0,varVx+200, varVy+15)
+draw_set_colour(c_yellow)
+draw_set_font(fnGUI)
+draw_text(varVx+238, varVy+9, string(objPlayerSmall.varCoinAmount))
+
+//draw Artemis Juice Amount
+draw_healthbar(varVx+68, varVy+68, varVx+239, varVy+90, objPlayerSmall.varJuiceAmount, c_dkgray, c_orange, c_silver, 0, true, false)
+draw_sprite(sprJuiceOutline,0, varVx+68, varVy+68)

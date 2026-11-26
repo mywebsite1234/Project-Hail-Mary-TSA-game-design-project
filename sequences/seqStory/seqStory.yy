@@ -44,7 +44,7 @@
   "resourceType":"GMSequence",
   "resourceVersion":"2.0",
   "seqHeight":575.0,
-  "seqWidth":1258.615,
+  "seqWidth":1093.7338,
   "showBackdrop":true,
   "showBackdropImage":false,
   "spriteId":null,
@@ -127,7 +127,7 @@
     {"$GMTextTrack":"","%Name":"fnFirstRoom2","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<AssetTextKeyframe>":"","Keyframes":[
           {"$Keyframe<AssetTextKeyframe>":"","Channels":{
               "0":{"$AssetTextKeyframe":"v1","Alignment":0,"EnableEffects":false,"EnableGlow":false,"EnableOutline":false,"EnableShadow":false,"Id":{"name":"fnFirstRoom","path":"fonts/fnFirstRoom/fnFirstRoom.yy",},"resourceType":"AssetTextKeyframe","resourceVersion":"2.0","Text":"So they sent Bob","Wrap":false,},
-            },"Disabled":false,"id":"87ac9d5e-a814-4766-95dd-51d197240587","IsCreationKey":false,"Key":260.0,"Length":116.0,"resourceType":"Keyframe<AssetTextKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            },"Disabled":false,"id":"18f398ee-ceb1-41c8-bb2d-f62735f27fe8","IsCreationKey":false,"Key":260.0,"Length":116.0,"resourceType":"Keyframe<AssetTextKeyframe>","resourceVersion":"2.0","Stretch":false,},
         ],"resourceType":"KeyframeStore<AssetTextKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"fnFirstRoom2","resourceType":"GMTextTrack","resourceVersion":"2.0","trackColour":4282958322,"tracks":[
         {"$GMColourTrack":"","%Name":"blend_multiply","builtinName":10,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<ColourKeyframe>":"","Keyframes":[
               {"$Keyframe<ColourKeyframe>":"","Channels":{
@@ -429,7 +429,7 @@
   ],
   "visibleRange":{
     "x":0.0,
-    "y":469.9999,
+    "y":132.0,
   },
   "volume":1.0,
   "xorigin":0,
