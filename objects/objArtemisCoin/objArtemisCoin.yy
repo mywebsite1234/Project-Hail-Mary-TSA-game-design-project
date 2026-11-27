@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprArtemisCoin",
-    "path":"sprites/sprArtemisCoin/sprArtemisCoin.yy",
+    "name":"sprArtemisCoinBigger",
+    "path":"sprites/sprArtemisCoinBigger/sprArtemisCoinBigger.yy",
   },
   "spriteMaskId":null,
   "visible":true,
