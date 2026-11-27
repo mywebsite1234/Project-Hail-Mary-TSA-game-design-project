@@ -111,7 +111,7 @@ if not varSpriteOverride
 	// Logic: if "standing" on a moving wall, adjust the player x position by 
 	// adding the hspeed of the moving wall to it.
 	// IF YOU DON'T WANT THE PLAYER TO RIDE, BUT TO FREE RUN, JUST COMMENT OUT THE NEXT PART
-	varTMovingWall = collision_point(x,bbox_bottom+1,objWallHorizontalMoving, false, false)
+	varTMovingWall = collision_point(x,bbox_bottom+1,objWallHorizontalMoving and objWallHorizontalMovingReverse, false, false)
 	if varTMovingWall != noone 
 	{
 		varHorizontalRide = true
