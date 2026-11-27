@@ -92,6 +92,7 @@
     {"name":"inst_6DDEFF21","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
     {"name":"inst_713561D4","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
     {"name":"inst_7759DBD3","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
+    {"name":"inst_6CB19C03","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -115,6 +116,7 @@
         {"$GMRInstance":"v4","%Name":"inst_279753F0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_279753F0","objectId":{"name":"objEnemy","path":"objects/objEnemy/objEnemy.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":800.0,"y":400.0,},
         {"$GMRInstance":"v4","%Name":"inst_3964FE79","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3964FE79","objectId":{"name":"objEnemy","path":"objects/objEnemy/objEnemy.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2624.0,"y":470.0,},
         {"$GMRInstance":"v4","%Name":"inst_2E98335E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2E98335E","objectId":{"name":"objArtemisCoin","path":"objects/objArtemisCoin/objArtemisCoin.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":688.0,"y":432.0,},
+        {"$GMRInstance":"v4","%Name":"inst_6CB19C03","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6CB19C03","objectId":{"name":"objJetPack","path":"objects/objJetPack/objJetPack.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":288.0,"y":432.0,},
       ],"layers":[],"name":"PlayerLayer","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"AssetLayer","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_48EEF020","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_48EEF020","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":32.16329,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"sprArrow","path":"sprites/sprArrow/sprArrow.yy",},"x":1696.0,"y":480.0,},

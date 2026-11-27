@@ -203,7 +203,19 @@ if not varSpriteOverride
 		}
 		else
 		{
-			sprite_index = varSPRJumpDown
+			if varJetPackOn = false
+			{
+				sprite_index = varSPRJumpDown
+			}
+			else
+			{
+				sprite_index = sprVGJetPackOn
+				image_speed = 1
+				if image_index < 4 and image_index > 2
+				{
+					image_speed = 0
+				}
+			}
 		}
 		// Flip the sprite to face left or right
 		if varHSpeed > 0
@@ -273,3 +285,5 @@ if keyboard_check(vk_shift) and not global.shift_pressed {
 	global.shift_pressed = true
 }
 
+
+varJetPackOn = false
