@@ -1,6 +1,6 @@
 if instance_exists(objPlayerSmall)
 {
-	if sqrt(sqr(abs(objPlayerSmall.x - self.x)) + sqr(abs(objPlayerSmall.y - self.y))) <= 100
+	if sqrt(sqr(abs(objPlayerSmall.x - self.x)) + sqr(abs(objPlayerSmall.y - self.y))) <= 200
 	{
 		if alarm[0] <= 0
 			{
