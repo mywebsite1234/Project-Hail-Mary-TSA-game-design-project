@@ -83,7 +83,6 @@
     {"name":"inst_44CD7069","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
     {"name":"inst_7759DBD3","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
     {"name":"inst_2E98335E","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
-    {"name":"inst_447C88B2","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
     {"name":"inst_1676EBF2","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
     {"name":"inst_7759DBD3","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
     {"name":"inst_E05C09A","path":"rooms/rmSmallerWorld/rmSmallerWorld.yy",},
