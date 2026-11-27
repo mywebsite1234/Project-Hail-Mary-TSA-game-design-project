@@ -14,16 +14,29 @@ varAttacking = false		// used for attacking
 varSpriteOverride = false	// allows you to bypass the step event for the duration of the animation
 
 
-// set the sprites - 
-varSPRIdle = sprVGIdle		//this sprite's mask is used for non-attacking sprites
-varSPRWalking = sprVGRun			//walking sprite
-varSPRRunning = sprVGRun			//running sprite
-varSPRJumpUp = sprVGJump		//uump sprite
-varSPRJumpUp2 =sprVGJump		//you can have a different spr on the double jump
-varSPRJumpDown = sprVGFall	//sprite for downside of jump
-varSPRAttack = sprVGRun	//default attack sprite - can be changed during the game
-mask_index = varSPRIdle 
-
+//set the sprites
+if objGame.varCanUseJetPack = true
+{
+	varSPRIdle = sprVGIdleJetPack		//this sprite's mask is used for non-attacking sprites
+	varSPRWalking = sprVGRunJetPack			//walking sprite
+	varSPRRunning = sprVGRunJetPack		//running sprite
+	varSPRJumpUp = sprVGJumpJetPack		//uump sprite
+	varSPRJumpUp2 =sprVGJumpJetPack		//you can have a different spr on the double jump
+	varSPRJumpDown = sprVGFallJetPack	//sprite for downside of jump
+	varSPRAttack = sprVGRunJetPack	//default attack sprite - can be changed during the game
+	mask_index = varSPRIdle
+}
+else
+{
+	varSPRIdle = sprVGIdle		//this sprite's mask is used for non-attacking sprites
+	varSPRWalking = sprVGRun			//walking sprite
+	varSPRRunning = sprVGRun			//running sprite
+	varSPRJumpUp = sprVGJump		//uump sprite
+	varSPRJumpUp2 =sprVGJump		//you can have a different spr on the double jump
+	varSPRJumpDown = sprVGFall	//sprite for downside of jump
+	varSPRAttack = sprVGRun	//default attack sprite - can be changed during the game
+	mask_index = varSPRIdle 
+}
 //These variables are maintained by the step event
 //very useful to reference in other places - the develop should never change these
 varJumping = true			// always start the player in a jumping position to allow drop in alignment

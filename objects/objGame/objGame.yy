@@ -31,6 +31,7 @@
     {"$GMObjectProperty":"v2","%Name":"varLives","filters":[],"listItems":[],"multiselect":false,"name":"varLives","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"6","varType":1,},
     {"$GMObjectProperty":"v2","%Name":"varJuiceAmount","filters":[],"listItems":[],"multiselect":false,"name":"varJuiceAmount","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0.0","varType":0,},
     {"$GMObjectProperty":"v2","%Name":"varCoinAmount","filters":[],"listItems":[],"multiselect":false,"name":"varCoinAmount","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v2","%Name":"varCanUseJetPack","filters":[],"listItems":[],"multiselect":false,"name":"varCanUseJetPack","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
