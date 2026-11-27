@@ -1,3 +1,4 @@
+///@description Player Jetpack Lower
 varJetPackSpeed = 5
 
 if objGame.varCanUseJetPack = true and varJumping = false
