@@ -54,12 +54,12 @@ if instance_exists(objPlayerSmall)
 	draw_sprite(sprCoinGUI,0,varVx+200, varVy+15)
 	draw_set_colour(c_black)
 	draw_set_font(fnGUI)
-	draw_text(varVx+238, varVy+9, string(objPlayerSmall.varCoinAmount))
+	draw_text(varVx+238, varVy+9, string(objGame.varCoinAmount))
 }
 
 //draw Artemis Juice Amount
 if instance_exists(objPlayerSmall)
 {
-	draw_healthbar(varVx+68, varVy+68, varVx+239, varVy+90, objPlayerSmall.varJuiceAmount, c_dkgray, c_orange, c_silver, 0, true, false)
+	draw_healthbar(varVx+68, varVy+68, varVx+239, varVy+90, objGame.varJuiceAmount, c_dkgray, c_orange, c_silver, 0, true, false)
 	draw_sprite(sprJuiceOutline,0, varVx+68, varVy+68)
 }
