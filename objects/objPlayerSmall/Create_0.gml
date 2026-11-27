@@ -5,8 +5,8 @@
 // locations of the game to impact player behavior
 varWalkingSpeed = 6			// sets the walking speed
 varRunningSpeed = 9		// sets the running speed
-varJumpingSpeed = 11		// sets the jumping speed
-varGravity = 0.35			// sets the gravity
+varJumpingSpeed = 9		// sets the jumping speed
+varGravity = 0.20			// sets the gravity
 varDrag = .5				// sets the drag - how fast a character slows
 varRunningJumps = true		// set to false if you dont want runnning speed to be used in jumps
 varDoubleJumps = false		// set to false if you dont want double jump
