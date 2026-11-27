@@ -41,6 +41,7 @@ draw_self()
 if varShowText != "" {
 	draw_set_halign(fa_center)
 	draw_set_font(fnTempText)
+	draw_set_colour(c_white)
 	draw_text(x, y - 60, varShowText)
 	if varTextTTL > 0 {
 		alarm_set(11, varTextTTL)
