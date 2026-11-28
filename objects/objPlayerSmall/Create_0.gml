@@ -53,7 +53,8 @@ varJumps = 0
 
 global.shift_pressed = false
 
-
+global.bat_pickup = false
+global.bat_type = "rusty"
 
 
 
