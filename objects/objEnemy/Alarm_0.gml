@@ -4,5 +4,5 @@ if instance_exists(objPlayerSmall)
 	varEnemyAttack.direction = point_direction(self.x, self.y, objPlayerSmall.x, objPlayerSmall.y)
 	varEnemyAttack.image_angle = varEnemyAttack.direction
 	varEnemyAttack.speed = 2
-	alarm_set(0, 80)
+	alarm_set(0, 120)
 }
